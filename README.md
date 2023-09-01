@@ -21,4 +21,8 @@
   <a href="https://www.linkedin.com/in/sergiojunior15" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-  ![Snake animation](https://github.com/sergiojunior13/sergiojunior13/blob/output/github-contribution-grid-snake.svg)
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>

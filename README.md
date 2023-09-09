@@ -20,7 +20,3 @@
   ##
   <a href="https://www.linkedin.com/in/sergiojunior15" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
- <picture>
-  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
-</picture>
